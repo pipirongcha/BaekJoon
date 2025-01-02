@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pipir\\Desktop\\Study\\BaekJoon\\10926\\No.10926\\No.10926\\No.10926.csproj",
+      "projectUniqueName": "C:\\Users\\pipir\\Desktop\\Study\\BaekJoon\\No.10926\\No.10926\\No.10926.csproj",
       "projectName": "No.10926",
-      "projectPath": "C:\\Users\\pipir\\Desktop\\Study\\BaekJoon\\10926\\No.10926\\No.10926\\No.10926.csproj",
+      "projectPath": "C:\\Users\\pipir\\Desktop\\Study\\BaekJoon\\No.10926\\No.10926\\No.10926.csproj",
       "packagesPath": "C:\\Users\\pipir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pipir\\Desktop\\Study\\BaekJoon\\10926\\No.10926\\No.10926\\obj\\",
+      "outputPath": "C:\\Users\\pipir\\Desktop\\Study\\BaekJoon\\No.10926\\No.10926\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pipir\\AppData\\Roaming\\NuGet\\NuGet.Config",
