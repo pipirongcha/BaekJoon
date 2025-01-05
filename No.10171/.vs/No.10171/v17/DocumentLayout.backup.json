@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\pipir\\Desktop\\Study\\BaekJoon\\No.10171\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC41C439-F7BE-4F79-BBB2-296B318213E9}|No.10171\\No.10171.csproj|c:\\users\\pipir\\desktop\\study\\baekjoon\\no.10171\\no.10171\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC41C439-F7BE-4F79-BBB2-296B318213E9}|No.10171\\No.10171.csproj|solutionrelative:no.10171\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC41C439-F7BE-4F79-BBB2-296B318213E9}|No.10171\\No.10171.csproj|c:\\users\\pipir\\desktop\\study\\baekjoon\\no.10171\\no.10171\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41C439-F7BE-4F79-BBB2-296B318213E9}|No.10171\\No.10171.csproj|solutionrelative:no.10171\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,11 +19,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pipir\\Desktop\\Study\\BaekJoon\\No.10171\\No.10171\\Program.cs",
-              "RelativeDocumentMoniker": "No.10171\\Program.cs",
-              "ToolTip": "C:\\Users\\pipir\\Desktop\\Study\\BaekJoon\\No.10171\\No.10171\\Program.cs*",
-              "RelativeToolTip": "No.10171\\Program.cs*",
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\pipir\\Desktop\\Study\\BaekJoon\\No.10171\\No.10171\\Solution.cs",
+              "RelativeDocumentMoniker": "No.10171\\Solution.cs",
+              "ToolTip": "C:\\Users\\pipir\\Desktop\\Study\\BaekJoon\\No.10171\\No.10171\\Solution.cs",
+              "RelativeToolTip": "No.10171\\Solution.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T11:06:48.484Z",
