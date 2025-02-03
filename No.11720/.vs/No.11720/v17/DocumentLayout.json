@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pipir\\Desktop\\Study\\BaekJoon\\No.11720\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09273E26-EE1F-4139-A3F4-79117F2D06DC}|No.11720\\No.11720.csproj|c:\\users\\pipir\\desktop\\study\\baekjoon\\no.11720\\no.11720\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09273E26-EE1F-4139-A3F4-79117F2D06DC}|No.11720\\No.11720.csproj|solutionrelative:no.11720\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\pipir\\Desktop\\Study\\BaekJoon\\No.11720\\No.11720\\Solution.cs",
+              "RelativeDocumentMoniker": "No.11720\\Solution.cs",
+              "ToolTip": "C:\\Users\\pipir\\Desktop\\Study\\BaekJoon\\No.11720\\No.11720\\Solution.cs",
+              "RelativeToolTip": "No.11720\\Solution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:56:48.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
