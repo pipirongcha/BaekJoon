@@ -1,0 +1,14 @@
+C:\Users\pipir\source\repos\No.3003\No.3003\bin\Debug\net8.0\No.3003.exe
+C:\Users\pipir\source\repos\No.3003\No.3003\bin\Debug\net8.0\No.3003.deps.json
+C:\Users\pipir\source\repos\No.3003\No.3003\bin\Debug\net8.0\No.3003.runtimeconfig.json
+C:\Users\pipir\source\repos\No.3003\No.3003\bin\Debug\net8.0\No.3003.dll
+C:\Users\pipir\source\repos\No.3003\No.3003\bin\Debug\net8.0\No.3003.pdb
+C:\Users\pipir\source\repos\No.3003\No.3003\obj\Debug\net8.0\No.3003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pipir\source\repos\No.3003\No.3003\obj\Debug\net8.0\No.3003.AssemblyInfoInputs.cache
+C:\Users\pipir\source\repos\No.3003\No.3003\obj\Debug\net8.0\No.3003.AssemblyInfo.cs
+C:\Users\pipir\source\repos\No.3003\No.3003\obj\Debug\net8.0\No.3003.csproj.CoreCompileInputs.cache
+C:\Users\pipir\source\repos\No.3003\No.3003\obj\Debug\net8.0\No.3003.dll
+C:\Users\pipir\source\repos\No.3003\No.3003\obj\Debug\net8.0\refint\No.3003.dll
+C:\Users\pipir\source\repos\No.3003\No.3003\obj\Debug\net8.0\No.3003.pdb
+C:\Users\pipir\source\repos\No.3003\No.3003\obj\Debug\net8.0\No.3003.genruntimeconfig.cache
+C:\Users\pipir\source\repos\No.3003\No.3003\obj\Debug\net8.0\ref\No.3003.dll
