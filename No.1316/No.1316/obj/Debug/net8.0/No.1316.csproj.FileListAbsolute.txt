@@ -1,0 +1,15 @@
+C:\Users\pipir\Desktop\Study\BaekJoon\No.1316\No.1316\bin\Debug\net8.0\No.1316.exe
+C:\Users\pipir\Desktop\Study\BaekJoon\No.1316\No.1316\bin\Debug\net8.0\No.1316.deps.json
+C:\Users\pipir\Desktop\Study\BaekJoon\No.1316\No.1316\bin\Debug\net8.0\No.1316.runtimeconfig.json
+C:\Users\pipir\Desktop\Study\BaekJoon\No.1316\No.1316\bin\Debug\net8.0\No.1316.dll
+C:\Users\pipir\Desktop\Study\BaekJoon\No.1316\No.1316\bin\Debug\net8.0\No.1316.pdb
+C:\Users\pipir\Desktop\Study\BaekJoon\No.1316\No.1316\obj\Debug\net8.0\No.1316.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pipir\Desktop\Study\BaekJoon\No.1316\No.1316\obj\Debug\net8.0\No.1316.AssemblyInfoInputs.cache
+C:\Users\pipir\Desktop\Study\BaekJoon\No.1316\No.1316\obj\Debug\net8.0\No.1316.AssemblyInfo.cs
+C:\Users\pipir\Desktop\Study\BaekJoon\No.1316\No.1316\obj\Debug\net8.0\No.1316.csproj.CoreCompileInputs.cache
+C:\Users\pipir\Desktop\Study\BaekJoon\No.1316\No.1316\obj\Debug\net8.0\No.1316.sourcelink.json
+C:\Users\pipir\Desktop\Study\BaekJoon\No.1316\No.1316\obj\Debug\net8.0\No.1316.dll
+C:\Users\pipir\Desktop\Study\BaekJoon\No.1316\No.1316\obj\Debug\net8.0\refint\No.1316.dll
+C:\Users\pipir\Desktop\Study\BaekJoon\No.1316\No.1316\obj\Debug\net8.0\No.1316.pdb
+C:\Users\pipir\Desktop\Study\BaekJoon\No.1316\No.1316\obj\Debug\net8.0\No.1316.genruntimeconfig.cache
+C:\Users\pipir\Desktop\Study\BaekJoon\No.1316\No.1316\obj\Debug\net8.0\ref\No.1316.dll
