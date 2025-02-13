@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\BaekJoon\\No.25206\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D425A146-7850-4189-8A2B-8CCB7AEE8F1F}|No.25206\\No.25206.csproj|d:\\study\\baekjoon\\no.25206\\no.25206\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D425A146-7850-4189-8A2B-8CCB7AEE8F1F}|No.25206\\No.25206.csproj|solutionrelative:no.25206\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\BaekJoon\\No.25206\\No.25206\\Program.cs",
+              "RelativeDocumentMoniker": "No.25206\\Program.cs",
+              "ToolTip": "D:\\Study\\BaekJoon\\No.25206\\No.25206\\Program.cs",
+              "RelativeToolTip": "No.25206\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:27:56.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
