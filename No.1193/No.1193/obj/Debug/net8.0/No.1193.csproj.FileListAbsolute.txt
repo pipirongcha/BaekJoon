@@ -1,0 +1,14 @@
+C:\Users\pipir\source\repos\No.1193\No.1193\bin\Debug\net8.0\No.1193.exe
+C:\Users\pipir\source\repos\No.1193\No.1193\bin\Debug\net8.0\No.1193.deps.json
+C:\Users\pipir\source\repos\No.1193\No.1193\bin\Debug\net8.0\No.1193.runtimeconfig.json
+C:\Users\pipir\source\repos\No.1193\No.1193\bin\Debug\net8.0\No.1193.dll
+C:\Users\pipir\source\repos\No.1193\No.1193\bin\Debug\net8.0\No.1193.pdb
+C:\Users\pipir\source\repos\No.1193\No.1193\obj\Debug\net8.0\No.1193.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pipir\source\repos\No.1193\No.1193\obj\Debug\net8.0\No.1193.AssemblyInfoInputs.cache
+C:\Users\pipir\source\repos\No.1193\No.1193\obj\Debug\net8.0\No.1193.AssemblyInfo.cs
+C:\Users\pipir\source\repos\No.1193\No.1193\obj\Debug\net8.0\No.1193.csproj.CoreCompileInputs.cache
+C:\Users\pipir\source\repos\No.1193\No.1193\obj\Debug\net8.0\No.1193.dll
+C:\Users\pipir\source\repos\No.1193\No.1193\obj\Debug\net8.0\refint\No.1193.dll
+C:\Users\pipir\source\repos\No.1193\No.1193\obj\Debug\net8.0\No.1193.pdb
+C:\Users\pipir\source\repos\No.1193\No.1193\obj\Debug\net8.0\No.1193.genruntimeconfig.cache
+C:\Users\pipir\source\repos\No.1193\No.1193\obj\Debug\net8.0\ref\No.1193.dll
