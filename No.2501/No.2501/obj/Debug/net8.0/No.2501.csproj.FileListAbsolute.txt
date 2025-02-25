@@ -1,0 +1,15 @@
+D:\Study\BaekJoon\No.2501\No.2501\bin\Debug\net8.0\No.2501.exe
+D:\Study\BaekJoon\No.2501\No.2501\bin\Debug\net8.0\No.2501.deps.json
+D:\Study\BaekJoon\No.2501\No.2501\bin\Debug\net8.0\No.2501.runtimeconfig.json
+D:\Study\BaekJoon\No.2501\No.2501\bin\Debug\net8.0\No.2501.dll
+D:\Study\BaekJoon\No.2501\No.2501\bin\Debug\net8.0\No.2501.pdb
+D:\Study\BaekJoon\No.2501\No.2501\obj\Debug\net8.0\No.2501.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\BaekJoon\No.2501\No.2501\obj\Debug\net8.0\No.2501.AssemblyInfoInputs.cache
+D:\Study\BaekJoon\No.2501\No.2501\obj\Debug\net8.0\No.2501.AssemblyInfo.cs
+D:\Study\BaekJoon\No.2501\No.2501\obj\Debug\net8.0\No.2501.csproj.CoreCompileInputs.cache
+D:\Study\BaekJoon\No.2501\No.2501\obj\Debug\net8.0\No.2501.sourcelink.json
+D:\Study\BaekJoon\No.2501\No.2501\obj\Debug\net8.0\No.2501.dll
+D:\Study\BaekJoon\No.2501\No.2501\obj\Debug\net8.0\refint\No.2501.dll
+D:\Study\BaekJoon\No.2501\No.2501\obj\Debug\net8.0\No.2501.pdb
+D:\Study\BaekJoon\No.2501\No.2501\obj\Debug\net8.0\No.2501.genruntimeconfig.cache
+D:\Study\BaekJoon\No.2501\No.2501\obj\Debug\net8.0\ref\No.2501.dll
