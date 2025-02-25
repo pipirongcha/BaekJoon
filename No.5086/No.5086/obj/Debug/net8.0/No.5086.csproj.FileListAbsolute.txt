@@ -1,0 +1,15 @@
+D:\Study\BaekJoon\No.5086\No.5086\bin\Debug\net8.0\No.5086.exe
+D:\Study\BaekJoon\No.5086\No.5086\bin\Debug\net8.0\No.5086.deps.json
+D:\Study\BaekJoon\No.5086\No.5086\bin\Debug\net8.0\No.5086.runtimeconfig.json
+D:\Study\BaekJoon\No.5086\No.5086\bin\Debug\net8.0\No.5086.dll
+D:\Study\BaekJoon\No.5086\No.5086\bin\Debug\net8.0\No.5086.pdb
+D:\Study\BaekJoon\No.5086\No.5086\obj\Debug\net8.0\No.5086.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\BaekJoon\No.5086\No.5086\obj\Debug\net8.0\No.5086.AssemblyInfoInputs.cache
+D:\Study\BaekJoon\No.5086\No.5086\obj\Debug\net8.0\No.5086.AssemblyInfo.cs
+D:\Study\BaekJoon\No.5086\No.5086\obj\Debug\net8.0\No.5086.csproj.CoreCompileInputs.cache
+D:\Study\BaekJoon\No.5086\No.5086\obj\Debug\net8.0\No.5086.sourcelink.json
+D:\Study\BaekJoon\No.5086\No.5086\obj\Debug\net8.0\No.5086.dll
+D:\Study\BaekJoon\No.5086\No.5086\obj\Debug\net8.0\refint\No.5086.dll
+D:\Study\BaekJoon\No.5086\No.5086\obj\Debug\net8.0\No.5086.pdb
+D:\Study\BaekJoon\No.5086\No.5086\obj\Debug\net8.0\No.5086.genruntimeconfig.cache
+D:\Study\BaekJoon\No.5086\No.5086\obj\Debug\net8.0\ref\No.5086.dll
