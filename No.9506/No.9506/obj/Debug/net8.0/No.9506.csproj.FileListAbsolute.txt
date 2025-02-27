@@ -1,0 +1,15 @@
+D:\Study\BaekJoon\No.9506\No.9506\bin\Debug\net8.0\No.9506.exe
+D:\Study\BaekJoon\No.9506\No.9506\bin\Debug\net8.0\No.9506.deps.json
+D:\Study\BaekJoon\No.9506\No.9506\bin\Debug\net8.0\No.9506.runtimeconfig.json
+D:\Study\BaekJoon\No.9506\No.9506\bin\Debug\net8.0\No.9506.dll
+D:\Study\BaekJoon\No.9506\No.9506\bin\Debug\net8.0\No.9506.pdb
+D:\Study\BaekJoon\No.9506\No.9506\obj\Debug\net8.0\No.9506.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\BaekJoon\No.9506\No.9506\obj\Debug\net8.0\No.9506.AssemblyInfoInputs.cache
+D:\Study\BaekJoon\No.9506\No.9506\obj\Debug\net8.0\No.9506.AssemblyInfo.cs
+D:\Study\BaekJoon\No.9506\No.9506\obj\Debug\net8.0\No.9506.csproj.CoreCompileInputs.cache
+D:\Study\BaekJoon\No.9506\No.9506\obj\Debug\net8.0\No.9506.sourcelink.json
+D:\Study\BaekJoon\No.9506\No.9506\obj\Debug\net8.0\No.9506.dll
+D:\Study\BaekJoon\No.9506\No.9506\obj\Debug\net8.0\refint\No.9506.dll
+D:\Study\BaekJoon\No.9506\No.9506\obj\Debug\net8.0\No.9506.pdb
+D:\Study\BaekJoon\No.9506\No.9506\obj\Debug\net8.0\No.9506.genruntimeconfig.cache
+D:\Study\BaekJoon\No.9506\No.9506\obj\Debug\net8.0\ref\No.9506.dll
