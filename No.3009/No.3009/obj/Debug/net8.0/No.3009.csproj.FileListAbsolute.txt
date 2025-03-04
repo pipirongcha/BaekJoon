@@ -1,0 +1,15 @@
+D:\Study\BaekJoon\No.3009\No.3009\bin\Debug\net8.0\No.3009.exe
+D:\Study\BaekJoon\No.3009\No.3009\bin\Debug\net8.0\No.3009.deps.json
+D:\Study\BaekJoon\No.3009\No.3009\bin\Debug\net8.0\No.3009.runtimeconfig.json
+D:\Study\BaekJoon\No.3009\No.3009\bin\Debug\net8.0\No.3009.dll
+D:\Study\BaekJoon\No.3009\No.3009\bin\Debug\net8.0\No.3009.pdb
+D:\Study\BaekJoon\No.3009\No.3009\obj\Debug\net8.0\No.3009.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\BaekJoon\No.3009\No.3009\obj\Debug\net8.0\No.3009.AssemblyInfoInputs.cache
+D:\Study\BaekJoon\No.3009\No.3009\obj\Debug\net8.0\No.3009.AssemblyInfo.cs
+D:\Study\BaekJoon\No.3009\No.3009\obj\Debug\net8.0\No.3009.csproj.CoreCompileInputs.cache
+D:\Study\BaekJoon\No.3009\No.3009\obj\Debug\net8.0\No.3009.sourcelink.json
+D:\Study\BaekJoon\No.3009\No.3009\obj\Debug\net8.0\No.3009.dll
+D:\Study\BaekJoon\No.3009\No.3009\obj\Debug\net8.0\refint\No.3009.dll
+D:\Study\BaekJoon\No.3009\No.3009\obj\Debug\net8.0\No.3009.pdb
+D:\Study\BaekJoon\No.3009\No.3009\obj\Debug\net8.0\No.3009.genruntimeconfig.cache
+D:\Study\BaekJoon\No.3009\No.3009\obj\Debug\net8.0\ref\No.3009.dll
