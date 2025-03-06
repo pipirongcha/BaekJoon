@@ -1,0 +1,15 @@
+D:\Study\BaekJoon\No.9063\No.9063\bin\Debug\net8.0\No.9063.exe
+D:\Study\BaekJoon\No.9063\No.9063\bin\Debug\net8.0\No.9063.deps.json
+D:\Study\BaekJoon\No.9063\No.9063\bin\Debug\net8.0\No.9063.runtimeconfig.json
+D:\Study\BaekJoon\No.9063\No.9063\bin\Debug\net8.0\No.9063.dll
+D:\Study\BaekJoon\No.9063\No.9063\bin\Debug\net8.0\No.9063.pdb
+D:\Study\BaekJoon\No.9063\No.9063\obj\Debug\net8.0\No.9063.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\BaekJoon\No.9063\No.9063\obj\Debug\net8.0\No.9063.AssemblyInfoInputs.cache
+D:\Study\BaekJoon\No.9063\No.9063\obj\Debug\net8.0\No.9063.AssemblyInfo.cs
+D:\Study\BaekJoon\No.9063\No.9063\obj\Debug\net8.0\No.9063.csproj.CoreCompileInputs.cache
+D:\Study\BaekJoon\No.9063\No.9063\obj\Debug\net8.0\No.9063.sourcelink.json
+D:\Study\BaekJoon\No.9063\No.9063\obj\Debug\net8.0\No.9063.dll
+D:\Study\BaekJoon\No.9063\No.9063\obj\Debug\net8.0\refint\No.9063.dll
+D:\Study\BaekJoon\No.9063\No.9063\obj\Debug\net8.0\No.9063.pdb
+D:\Study\BaekJoon\No.9063\No.9063\obj\Debug\net8.0\No.9063.genruntimeconfig.cache
+D:\Study\BaekJoon\No.9063\No.9063\obj\Debug\net8.0\ref\No.9063.dll
